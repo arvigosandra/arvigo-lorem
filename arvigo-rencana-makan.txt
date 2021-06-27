@@ -1,0 +1,6 @@
+Rencana makan
+makan mie indomie
+ * indomie goreng
+ * indomie kuah
+makan sate
+makan buah
